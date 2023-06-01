@@ -1,0 +1,8 @@
+We are going to see all the topic about routing, we will cover the next things:
+
+1. Setting up routes
+2. Handling errors
+3. Navigating between pages
+4. Dynamic routes
+5. Nested routes
+6. Private routes
